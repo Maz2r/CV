@@ -6,55 +6,67 @@
 
 
 # Education
-## **Pohang University of Science and Technology (POSTECH)**, MS in Computer Science and Engineering -- Pohang, Republic of Korea
+## **Pohang University of Science and Technology (POSTECH)**
+*Pohang, Republic of Korea*
 
-**MS**
 
+*Feb 2025 – present*
 
-Feb 2025 – present
+*MS* *in* *Computer Science and Engineering*
 
 - Advisor: Prof. Eunjin Oh
 
-- Research Area: Computational Geometry, Theoretical Computer Science
+- Research Area: Theoretical Computer Science, Computational Geometry, Combinatorial Optimization
 
 
 
-## **Pohang University of Science and Technology (POSTECH)**, BS in Computer Science and Engineering -- Pohang, Republic of Korea
+## **Pohang University of Science and Technology (POSTECH)**
+*Pohang, Republic of Korea*
 
-**BS**
 
+*Feb 2018 – Feb 2025*
 
-Feb 2018 – Feb 2025
+*BS* *in* *Computer Science and Engineering*
 
-- Major GPA: 3.51/4.30
-
-- GPA: 3.37/4.30
+- GPA (Major): 3.51/4.30
 
 
 
 # Experience
-## **Mediwhale**, ML Engineer -- Seoul, Republic of Korea
+## **ML Engineer**
 
-July 2024 – Sept 2024
+*Seoul, Republic of Korea*
 
+*July 2024 – Sept 2024*
 
-
-## **Parallel System Architecture Laboratory (PSAL)**, Lab Intern -- Pohang, Republic of Korea
-
-June 2023 – Aug 2023
+*Mediwhale*
 
 
 
-## **Innowiress**, AI Engineer -- Seoul, Republic of Korea
+## **Lab Intern**
 
-Dec 2022 – Feb 2023
+*Pohang, Republic of Korea*
+
+*June 2023 – Aug 2023*
+
+*Parallel System Architecture Laboratory (PSAL), POSTECH*
+
+
+
+## **AI Engineer**
+
+*Seoul, Republic of Korea*
+
+*Dec 2022 – Feb 2023*
+
+*Innowiress*
 
 
 
 # Projects
 ## **[FlashInfer](https://github.com/)**
 
-Jan 2023 – present
+*Jan 2023 – present*
 
 Open-source library for high-performance LLM inference kernels
 
