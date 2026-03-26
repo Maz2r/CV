@@ -1,72 +1,59 @@
 # Seongbin Park's CV
 
-- Email: [seongbin.park@ac.kr](mailto:seongbin.park@ac.kr)
+- Email: [seongbin.park@postech.ac.kr](mailto:seongbin.park@postech.ac.kr)
 - Location: Pohang, Republic of Korea
-- GitHub: [Maz2r](https://github.com/Maz2r)
 
 
 # Education
-## **Pohang University of Science and Technology (POSTECH)**
-*Pohang, Republic of Korea*
+## **Pohang University of Science and Technology (POSTECH)**, M.S. in Computer Science and Engineering -- Pohang, Republic of Korea
+
+**M.S.**
 
 
-*Feb 2025 – present*
+Feb 2025 – present
 
-*MS* *in* *Computer Science and Engineering*
+- Theory of Computation Lab, Advisor: Prof. Eunjin Oh
 
-- Advisor: Prof. Eunjin Oh
-
-- Research Area: Theoretical Computer Science, Computational Geometry, Combinatorial Optimization
+- Research Interests: Computational Geometry, Combinatorial Optimization
 
 
 
-## **Pohang University of Science and Technology (POSTECH)**
-*Pohang, Republic of Korea*
+## **Pohang University of Science and Technology (POSTECH)**, B.S. in Computer Science and Engineering -- Pohang, Republic of Korea
+
+**B.S.**
 
 
-*Feb 2018 – Feb 2025*
+Feb 2018 – Feb 2025
 
-*BS* *in* *Computer Science and Engineering*
-
-- GPA (Major): 3.51/4.30
+- GPA (Major): 3.52/4.30
 
 
 
 # Experience
-## **ML Engineer**
+## **Mediwhale**, ML Engineer -- Seoul, Republic of Korea
 
-*Seoul, Republic of Korea*
+July 2024 – Sept 2024
 
-*July 2024 – Sept 2024*
-
-*Mediwhale*
+-
 
 
 
-## **Lab Intern**
+## **Parallel System Architecture Laboratory, POSTECH**, Research Intern -- Pohang, Republic of Korea
 
-*Pohang, Republic of Korea*
-
-*June 2023 – Aug 2023*
-
-*Parallel System Architecture Laboratory (PSAL), POSTECH*
+June 2023 – Aug 2023
 
 
 
-## **AI Engineer**
+## **Innowiress**, AI Engineer -- Seongnam, Republic of Korea
 
-*Seoul, Republic of Korea*
-
-*Dec 2022 – Feb 2023*
-
-*Innowiress*
+Dec 2022 – Feb 2023
 
 
 
 # Projects
 ## **[FlashInfer](https://github.com/)**
 
-*Jan 2023 – present*
+Jan 2023 – present
 
 Open-source library for high-performance LLM inference kernels
 
