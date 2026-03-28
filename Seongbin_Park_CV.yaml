@@ -43,7 +43,7 @@ cv:
         highlights:
           - "Engineered MLOps pipelines for cardiovascular disease (CVD) prediction, integrating deep learning model development with automated production deployment"
           - "Developed classification models for fundus images, automated ONNX Dockerization for CI/CD on GCP, and orchestrated data integration workflows via Airflow"
-      - company: Innowiress
+      - company: LIG Accuver
         position: AI Engineer
         date:
         start_date: 2022-12
@@ -51,6 +51,8 @@ cv:
         location: Seongnam, Republic of Korea
         summary:
         highlights:
+          - "Researched model interpretability frameworks and executed foundational machine learning workflows for network intrusion detection"
+          - "Evaluated Random Forest and Gradient Boosting models for anomaly classification, and presented SHAP methodologies to AI developers to enhance real-world model explainability"
     research_experience:
       - company: Theory of Computation Laboratory, POSTECH
         position: Research Intern
