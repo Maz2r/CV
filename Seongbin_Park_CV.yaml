@@ -62,6 +62,8 @@ cv:
         location: Pohang, Republic of Korea
         summary:
         highlights:
+          - "Contributed to a national R&D project by developing open-source libraries for large-scale data processing"
+          - "Built a curve-similarity library for exact and approximation algorithms, and deployed a documentation website"
       - company: Parallel System Architecture Laboratory, POSTECH
         position: Research Intern
         date:
