@@ -52,7 +52,7 @@ cv:
         summary:
         highlights:
           - "Evaluated ensemble classification algorithms on network intrusion datasets"
-          - "Investigated eXplainable AI (XAI) frameworks and proposed SHAP integration to the team to enhance the transparency"
+          - "Proposed eXplainable AI (XAI) frameworks SHAP integration to the team"
     research_experience:
       - company: Theory of Computation Laboratory, POSTECH
         position: Research Intern
@@ -63,7 +63,7 @@ cv:
         summary:
         highlights:
           - "Contributed to a national R&D project by developing open-source libraries for large-scale data processing"
-          - "Built a curve-similarity library for exact and approximation algorithms, and deployed a documentation website"
+          - "Built curve-similarity libraries for exact and approximation algorithms, and deployed documents"
       - company: Parallel System Architecture Laboratory, POSTECH
         position: Research Intern
         date:
