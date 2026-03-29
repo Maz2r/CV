@@ -41,18 +41,18 @@ cv:
         location: Seoul, Republic of Korea
         summary:
         highlights:
-          - "Engineered MLOps pipelines for cardiovascular disease (CVD) prediction, integrating deep learning model development with automated production deployment"
-          - "Developed classification models for fundus images, automated ONNX Dockerization for CI/CD on GCP, and orchestrated data integration workflows via Airflow"
-      - company: LIG Accuver
-        position: AI Engineer
+          - "Engineered end-to-end MLOps pipelines for automated cardiovascular disease (CVD) model deployment"
+          - "Built fundus image classifiers, automated CI/CD, and managed data workflows"
+      - company: LIG Accuver (formerly Innowireless)
+        position: AI Engineer Intern
         date:
         start_date: 2022-12
         end_date: 2023-02
         location: Seongnam, Republic of Korea
         summary:
         highlights:
-          - "Researched model interpretability frameworks and executed foundational machine learning workflows for network intrusion detection"
-          - "Evaluated Random Forest and Gradient Boosting models for anomaly classification, and presented SHAP methodologies to AI developers to enhance real-world model explainability"
+          - "Evaluated ensemble classification algorithms on network intrusion datasets"
+          - "Investigated eXplainable AI (XAI) frameworks and proposed SHAP integration to the team to enhance the transparency"
     research_experience:
       - company: Theory of Computation Laboratory, POSTECH
         position: Research Intern
